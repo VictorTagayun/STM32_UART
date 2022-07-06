@@ -5,6 +5,7 @@ STM32 UART DMA Testing
 3. NUCLEO-G474RE-UART-NormalTXRX-DMA = Transmit and Receive Normal DMA
 4. NUCLEO-G474RE-UART-NormalTX-CircRX-DMA = Transmit Normal and Receive Circular DMA
 5. NUCLEO-G474RE-UART-CircTX-CircRX-DMA = Transmit and Receive Circular DMA
+6. NUCLEO-G474RE-UART-PrintfTX-CircRX-DMA = Printf Transmit and Receive Circular DMA
 
 
 Notes:
